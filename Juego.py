@@ -44,18 +44,6 @@ class Player:
                 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
   # Ahora creamos a un jugarod, designando una variable
 
   player_1 = Player("Pablo")
